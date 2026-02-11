@@ -22,5 +22,14 @@ build/
 .idea/
 
 # Local artifacts
-data/
-models/
+models/*
+!models/.gitkeep
+
+# Ignore data contents but keep folder structure
+data/*
+!data/raw/
+!data/processed/
+!data/inference/
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/inference/.gitkeep
