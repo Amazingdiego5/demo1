@@ -1,7 +1,7 @@
 # [Project Name: e.g., Retail Sales Forecasting]
 
-**Author:** TODO_STUDENT (Your Name)  
-**Course:** MLOps: Master in Business Analytics  
+**Author:** TODO_STUDENT (Your Group Name or number)  
+**Course:** MLOps: Master in Business Analytics and Data Sciense
 **Status:** Session 1 (Initialization)
 
 ---
@@ -34,8 +34,8 @@
 ## 3. The Data
 
 * **Source:** (e.g., Company Database, Kaggle CSV, API).
-* **Target Variable:** What specifically are you predicting?
-* **Sensitive Info:** Are there emails, credit cards, or PII?
+* **Target Variable:** What specifically are you predicting/ classifying?
+* **Sensitive Info:** Are there emails, credit cards, or any PII (Personally Identifiable Information)?
   > *⚠️ **WARNING:** If the dataset contains sensitive data, it must NEVER be committed to GitHub. Ensure `data/` is in your `.gitignore`.*
 
 ---
