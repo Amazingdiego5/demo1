@@ -55,6 +55,7 @@ This project follows a strict separation between "Sandbox" (Notebooks) and "Prod
 │   └── yourbaseline.ipynb   # From previous work
 │
 ├── src/                     # Production code (The "Factory")
+│   ├── __init__.py          # Python package
 │   ├── load_data.py         # Ingest raw data
 │   ├── clean_data.py        # Preprocessing & cleaning
 │   ├── validate.py          # Data quality checks
